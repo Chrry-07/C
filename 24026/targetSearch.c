@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a[n];
+    int a[10];
     int n, i, target, count = 0;
 
     // Reading the size of the array
